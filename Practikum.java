@@ -1,2 +1,4 @@
-publuc static Practikum{
+publuc class Practikum{
+  public static main(String []){
+ }
 }
